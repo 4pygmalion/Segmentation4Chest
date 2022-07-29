@@ -14,11 +14,13 @@ $ python3 dicom2png.py -s ./nodules/dicom -d ./nodules/png
 #### Directory
 ```
 JSRT
-├─Nodule154images
-│  └─Nodule154images
-├─NonNodule93images
-│  └─NonNodule93images
-└─scr: 
+├─nodules
+│  ├─dicom
+│  └─png
+├─non_nodules
+│  ├─dicom
+│  └─png
+└─scr
     ├─landmarks
     ├─masks
     │  ├─heart
