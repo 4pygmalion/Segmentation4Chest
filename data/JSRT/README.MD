@@ -2,8 +2,8 @@ data preprocessing
 
 #### Example
 ```
-# dicom files to png
-$ python3 dicom2png.py -s ./nodules/dicom -d ./nodules/png
+# dicom files to png with resizing(=rescaling)
+$ python3 .\dicom2png.py -s .\non_nodules\dicom\ -d .\non_nodules\png -r 512,512
 ```
 
 #### Requirement
