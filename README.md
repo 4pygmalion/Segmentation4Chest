@@ -8,22 +8,32 @@ Competion in Rayence Co
 
 #### Directory
 ```
-JSRT
-├─nodules
-│  ├─dicom
-│  └─png
-├─non_nodules
-│  ├─dicom
-│  └─png
-└─scr
-    ├─landmarks
-    ├─masks
-    │  ├─heart
-    │  ├─left clavicle
-    │  ├─left lung
-    │  ├─right clavicle
-    │  └─right lung
-    └─points
+├─data
+│  ├─JSRT
+│  │  ├─nodules
+│  │  │  ├─dicom
+│  │  │  └─png
+│  │  ├─non_nodules
+│  │  │  ├─dicom
+│  │  │  └─png
+│  │  └─scr
+│  │      ├─landmarks
+│  │      ├─masks
+│  │      │  ├─heart
+│  │      │  ├─heart_resized
+│  │      │  ├─left clavicle
+│  │      │  ├─left lung
+│  │      │  ├─right clavicle
+│  │      │  └─right lung
+│  │      └─points
+│  ├─test
+│  │  ├─img
+│  │  └─mask
+│  └─train
+│      ├─img
+│      └─mask
+├─logs
+└─models
 ```
 
 #### Image spec
