@@ -29,9 +29,10 @@ multiple_segmentation
 │      │  ├─right clavicle
 │      │  └─right lung
 │      └─points
-└─models
 ```
-src 폴더를보시면 되구요. Multisegmentation용도입니다. 파일명뒤에 붙는 surfix가 N이면 Nodule, NN이면 NonNodule 같습니다.
+
+src 폴더를보시면 되구요. Multisegmentation용도입니다.
+파일명뒤에 붙는 surfix가 N이면 Nodule, NN이면 NonNodule 같습니다.
 
 #### Image spec
 - 2D gray scale
