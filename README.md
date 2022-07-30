@@ -30,3 +30,7 @@ JSRT
 - 2D gray scale
 - normalized with [0, 255]
 - [512, 512]
+
+
+#### Source core
+https://sakibreza.github.io/TransResUNet/main_architecture.html
