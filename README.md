@@ -1,5 +1,9 @@
 # multiple_segmentation
-Competion in Rayence Co
+3rd Award in competion in Rayence Co
+
+![KakaoTalk_20220914_225533471](https://user-images.githubusercontent.com/45510932/190189846-82345b98-84dd-4e2f-a506-003a6c70b25a.png)
+
+
 
 #### Requirement
 - pydicom 2.3
