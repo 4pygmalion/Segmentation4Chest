@@ -52,3 +52,7 @@ Collaborated with Jung hoon Lee. JunSik Park.
 
 #### Source core
 https://sakibreza.github.io/TransResUNet/main_architecture.html
+
+
+#### Lisence
+The copyright and rights of the program have been transferred to Co., Ltd. A.
