@@ -1,8 +1,8 @@
 # multiple_segmentation
-3rd Award in competion in Rayence Co
+3rd Award in competion in Rayence Co.
+Collaborated with Jung hoon Lee. JunSik Park.
 
-![KakaoTalk_20220914_225533471](https://user-images.githubusercontent.com/45510932/190189846-82345b98-84dd-4e2f-a506-003a6c70b25a.png)
-
+![award](./images/competition.png)
 
 
 #### Requirement
@@ -36,8 +36,12 @@
 │  └─train
 │      ├─img
 │      └─mask
-├─logs
-└─models
+├─augmentation.py 
+├─block.py
+├─data_prep.
+├─main.ipnby
+└─build_model.py
+
 ```
 
 #### Image spec
