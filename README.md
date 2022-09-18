@@ -1,4 +1,4 @@
-# multiple_segmentation
+# Cardiac and Lung multiple segmentation
 3rd Award in competion in Rayence Co.
 Collaborated with Jung hoon Lee. JunSik Park.
 
