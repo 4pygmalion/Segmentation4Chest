@@ -51,10 +51,11 @@ $ python3 -m pip install -r requirements.txt
 
 ## How to use?
 ```
-// training model
+// image augmentation and training model
+$ python3 augmentation.py -i [image_folder_path]
 $ python3 train_model.py -i [image_folder_path] -m [save_model_path]
 
-// python3 inference.py -i [image_path] -m [model_path] -o [output_image_path]
+// python3 inference.py -i [image_folder_path] -m [save_model_path] -o [output_image_path]
 $ python inference.py -m data/params/params.hdf5 -o output_image.png -i test_data/0151.jpg
 ```
 

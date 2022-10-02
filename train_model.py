@@ -85,13 +85,6 @@ def display(display_list):
     plt.show()
 
 
-class DisplayCallback(tf.keras.callbacks.Callback):
-    def on_epoch_end(self, epoch, logs=None):
-        clear_output(wait=True)
-        show_predictions()
-        print("\nSample Prediction after epoch {}\n".format(epoch + 1))
-
-
 if __name__ == "__main__":
     ARGS = get_arg()
     IMG_PATHS, MASK_PATHS = get_images_mask_path(ARGS.image_dir)
